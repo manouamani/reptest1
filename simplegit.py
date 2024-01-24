@@ -1,1 +1,1 @@
-print("may first exemple for git")
+print("may second exemple for git")
